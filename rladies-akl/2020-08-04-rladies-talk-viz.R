@@ -12,7 +12,7 @@ library(lubridate)
 library(MASS)
 library(compositions)
 
-DIRECTORY <- '/mnt/sda2/uoa/compsci791-dissertation/ap-osteoarthritis/script/'
+DIRECTORY <- 'PUT-WORKING-DIRECTORY-HERE'
 setwd(DIRECTORY)
 
 ## assumption: most patients sleep between 9 PM to 5 AM (inclusive)
